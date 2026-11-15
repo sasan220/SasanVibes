@@ -1,0 +1,44 @@
+SasanVibes – Licencja / License
+Copyright (c) 2026 Sasan (sasan220). Wszelkie prawa zastrzeżone. All rights reserved.
+
+=== PO POLSKU ===
+
+1. Wolno:
+   - pobrać mod SasanVibes z oficjalnej strony wydań i używać go za darmo do gry,
+   - podawać innym link do oficjalnej strony wydań.
+
+2. Bez pisemnej zgody autora NIE wolno:
+   - udostępniać plików moda w innych miejscach (reuploady, paczki modów, inne strony),
+   - sprzedawać moda ani żadnej jego części, ani pobierać za niego opłat,
+   - zmieniać, przerabiać, dekompilować ani wykorzystywać kodu, grafik i modeli moda
+     we własnych projektach – w zakresie, w jakim prawo pozwala tego zakazać,
+   - wydawać moda lub jego części jako własnych,
+   - omijać zabezpieczeń moda (np. rang, przedmiotów tylko dla wybranych graczy, klucza developera).
+
+3. Mod jest udostępniany „tak jak jest”, bez żadnych gwarancji. Autor nie odpowiada za szkody,
+   utratę danych ani kary na serwerach wynikające z używania moda. Przed grą sprawdź zasady serwera.
+
+4. Elementy innych autorów nie są objęte tą licencją:
+   - czcionka Dancing Script – SIL Open Font License 1.1 (plik OFL-DancingScript.txt w modzie),
+   - teksty piosenek i dane o muzyce pobierane z serwisów zewnętrznych należą do ich właścicieli.
+
+=== IN ENGLISH ===
+
+1. You may:
+   - download SasanVibes from the official releases page and use it for free to play the game,
+   - share the link to the official releases page.
+
+2. Without the author's written permission you may NOT:
+   - redistribute the mod files anywhere else (reuploads, modpacks, other websites),
+   - sell the mod or any part of it, or charge for it,
+   - modify, decompile or reuse the mod's code, textures or models in your own projects,
+     to the extent the law allows this to be restricted,
+   - present the mod or any part of it as your own work,
+   - bypass the mod's protections (e.g. ranks, player-exclusive items, the developer key).
+
+3. The mod is provided "as is", without any warranty. The author is not liable for any damage,
+   data loss or server punishments caused by using the mod. Check the server rules before playing.
+
+4. Third-party parts are not covered by this license:
+   - the Dancing Script font – SIL Open Font License 1.1 (OFL-DancingScript.txt inside the mod),
+   - song lyrics and music data fetched from external services belong to their owners.

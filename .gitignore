@@ -1,0 +1,8 @@
+# W tym repo sa tylko README i licencja - kod zostaje na PC
+src/
+build/
+.gradle/
+dev-key/
+wydanie/
+*.key
+*.java
